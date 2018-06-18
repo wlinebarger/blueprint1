@@ -4,6 +4,14 @@ const App = Express()
 
 require('dotenv').config();
 
+/*const fs = require('fs');
+const requestBuilder = require('./middleware/commercetools').requestBuilder;
+const client = require('./middleware/commercetools').client;
+const await = require('asyncawait/await');
+const async = require('asyncawait/async');
+const bodyParser = require('body-parser');
+const request = require('request');
+*/
 const projectKey = process.env.PROJECT_KEY;
 /**
  * Responds to any HTTP request that can provide a "message" field in the body.
