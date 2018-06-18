@@ -20,6 +20,6 @@ exports.helloWorld = (req, res) => {
     // Everything is okay.
     console.log(req.body.message);
     //res.status(200).send('Success: ' + req.body.message);
-    res.status(200).send('Successful: ' + projectKey);
+    res.status(200).send('Successfully: ' + projectKey);
   }
 };
