@@ -10,7 +10,7 @@ const client = require('./middleware/commercetools').client;
 const await = require('asyncawait/await');
 const async = require('asyncawait/async');
 const bodyParser = require('body-parser');
-const request = require('request');;;;
+const request = require('request');
 */
 const projectKey = process.env.PROJECT_KEY;
 /**
