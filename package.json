@@ -1,10 +1,10 @@
 {
+	"name": "blueprint1",
+	"version": "0.0.1"
+},
 	"dependencies": {
       "express": "^4.15.3",
       "express-handlebars": "^3.0.0",
       "handlebars": "^4.0.6",
       "dotenv": "^4.0.0"
-	},
-  "name": "sample-http",
-  "version": "0.0.1"
-}
+	}
