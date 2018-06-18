@@ -1,6 +1,6 @@
 const Express = require('express')
 const Exphbs = require('express-handlebars');
-const App = Express()
+const App = Express();
 
 require('dotenv').config();
 
