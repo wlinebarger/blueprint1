@@ -4,7 +4,7 @@ const App = Express();
 
 require('dotenv').config();
 
-/*const fs = require('fs');
+/*const fs = require('fs');tell
 const requestBuilder = require('./middleware/commercetools').requestBuilder;
 const client = require('./middleware/commercetools').client;
 const await = require('asyncawait/await');
